@@ -33,7 +33,7 @@ body {
   z-index: 9;
 
   background-color: rgba(0, 0, 0, 0.7);
-  /* transform: translateX(-100vw); */
+  transform: translateX(-100vw);
 }
 
 .overlay-slide-right {
@@ -185,7 +185,7 @@ nav li:nth-of-type(5) {
   }
 }
 
-/* --- Menu Bars ------------------------------------ */
+/* --- Menu Bars from w3schools -------------- */
 
 .menu-bars {
   position: fixed;
